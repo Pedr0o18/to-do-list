@@ -1,0 +1,10 @@
+📋 3. To-Do List (Lista de Tarefas)
+Objetivo: Adicionar, riscar e remover tarefas.
+
+Conceitos praticados:
+
+DOM dinâmico com createElement
+
+Eventos de clique
+
+LocalStorage (se quiser avançar um pouco)
